@@ -38,10 +38,6 @@ My unique blend of hands-on experience in structured finance, cross-border trans
 - **[NLP-Financial-Compliance](https://github.com/tiantianzhang-dev/NLP-Financial-Compliance)** - FinBERT applications for automated compliance screening
 - **[Earnings-Call-Acoustic-Analysis](https://github.com/tiantianzhang-dev/earnings-call-acoustic-analysis)** - ML thesis correlating earnings call speech data with company credit rating movements
 
-### GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tiantianzhang-dev&show_icons=true&theme=vue-dark&hide_border=true)
-
 ### Contact Information
 
 I'm passionate about leveraging technology to enhance financial integrity and compliance. Whether you're interested in collaboration, have opportunities in FEC/AML, or want to discuss the intersection of AI and financial crime prevention, I'd love to connect.
