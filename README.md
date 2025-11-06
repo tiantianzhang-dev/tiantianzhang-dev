@@ -1,6 +1,6 @@
 # Hi, I'm Tiantian Zhang
 
-## Financial Crime Compliance & ML Specialist | Credit Risk Expert
+## Credit Risk Specialist | ML-enabled FEC & AML Analyst | Structured Finance Specialist
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zhang-tian-tian)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zhang_tian_tian@outlook.com)
