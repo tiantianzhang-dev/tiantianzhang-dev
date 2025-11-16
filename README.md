@@ -48,4 +48,4 @@ I'm passionate about leveraging technology to enhance financial integrity and co
 
 ---
 
-*"Bridging the gap between traditional financial compliance and cutting-edge AI technology"*
+*"Researching AI has broken down the wall that segregates logical and creative thinking inside of me. I am now allowed to see things through the multidimensional lenses I was created with in the first place."*
