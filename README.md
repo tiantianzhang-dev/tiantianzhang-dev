@@ -1,6 +1,6 @@
 # Hi, I'm Tiantian Zhang
 
-## Structured Finance Specialist | Speech Technology Researcher | ML-enabled FEC & AML Analyst
+## Structured Finance Specialist | Speech & Fintech Research | ML-enabled FEC & AML Analyst
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zhang-tian-tian)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zhang_tian_tian@outlook.com)
