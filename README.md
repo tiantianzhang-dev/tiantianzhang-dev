@@ -36,8 +36,6 @@ My unique position at the intersection of structured finance, computational meth
 
 ### Contact Information
 
-I'm passionate about leveraging technology to enhance financial integrity and compliance. Whether you're interested in collaboration, have opportunities in Fintech, or want to discuss the intersection of AI and structured finance, I'd love to connect.
-
 - **Email**: [zhang_tian_tian@outlook.com](mailto:zhang_tian_tian@outlook.com)
 - **LinkedIn**: [linkedin.com/in/zhang-tian-tian](https://linkedin.com/in/zhang-tian-tian)
 - **Phone**: +31-6-85752463
