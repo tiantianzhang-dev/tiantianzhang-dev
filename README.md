@@ -18,7 +18,7 @@ My unique position at the intersection of structured finance, computational meth
 - **Fitch Ratings**: Associate Director - Rated 38 ABS/RMBS transactions, published 26 research reports
 - **MUFG Bank**: Managed USD 14.97B cross-border structured finance portfolio with Basel III compliance
 - **BNP Paribas JV**: Led IFRS 9 implementation and secured CNY 100M capital injection
-- **Academic Research**: Developing ML-driven transaction monitoring models integrating credit analytics with deep learning
+- **Academic Research**: Developing ML-driven transaction monitoring models integrating credit analytics with speech technology
 
 ## Research Interests
 
@@ -36,7 +36,7 @@ My unique position at the intersection of structured finance, computational meth
 
 ### Contact Information
 
-I'm passionate about leveraging technology to enhance financial integrity and compliance. Whether you're interested in collaboration, have opportunities in FEC/AML, or want to discuss the intersection of AI and financial crime prevention, I'd love to connect.
+I'm passionate about leveraging technology to enhance financial integrity and compliance. Whether you're interested in collaboration, have opportunities in Fintech, or want to discuss the intersection of AI and structured finance, I'd love to connect.
 
 - **Email**: [zhang_tian_tian@outlook.com](mailto:zhang_tian_tian@outlook.com)
 - **LinkedIn**: [linkedin.com/in/zhang-tian-tian](https://linkedin.com/in/zhang-tian-tian)
