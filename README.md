@@ -24,7 +24,7 @@ My unique position at the intersection of structured finance, computational meth
 
 ### Methodological Domains
 - **Multimodal Machine Learning**: Acoustic-semantic fusion architectures, cross-modal attention mechanisms
-- **Financial NLP**: Domain-specific language models (FinBERT, RoBERTa), sentiment analysis in regulatory contexts
+- **Financial NLP**: Domain-specific language models (FinBERT), sentiment analysis in regulatory contexts
 - **Responsible AI**: Explainable AI for financial decision-making, bias detection and mitigation, regulatory-compliant model development
 - **Computational Paralinguistics**: Speech emotion recognition, acoustic stress indicators, prosodic feature extraction
 
